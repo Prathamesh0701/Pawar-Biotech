@@ -1,0 +1,122 @@
+*{
+	font-family: Montserrat;
+}
+
+#Welcome{ 
+	font-size: 450px;
+		color:#e06f2d ;
+	font-style: italic; 
+	
+}	
+.para{
+	
+	font-family:'Cinzel', serif;
+	font-size: 30px
+}
+.nav{
+	
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 45px
+
+
+}
+
+nav{ 
+	font-family:'Suez One', serif;
+	font-size: 25px;
+	margin:auto;
+	width: 100%;
+	padding: 5px
+}
+
+
+
+ .footer_color{
+ 	font-size: 15px;
+ 	color: white;
+}
+
+ .footer_color:hover{
+ 	color: white;
+
+ }
+
+ .ul{
+ 	list-style: none;
+ }
+
+
+.service{
+	margin-top: 30px;
+	background-color: #f5a158;
+	font-size: 130% ;
+	padding:20px;
+	border:solid ;
+}
+
+
+
+#Aboutus{
+	margin-top: 50px ;
+font-size: 150%;
+font-family: 'Red Rose', cursive ;
+ 
+
+}
+
+
+#About_us{
+font-size: 150%;
+font-family: 'Red Rose', cursive ;
+ background-color: #f6f6f6;
+}
+
+#about{
+	color:red;
+	margin-top: 50px;
+	font-size: 300%;
+	font-style: italic;
+}
+
+.customer_service{
+	margin-top: 30px;
+	background-color: violet;
+	font-size: 130% ;
+	padding:20px;
+	border:solid ;
+}
+
+.text_center{
+	text-align: center;
+	
+}
+
+.list{
+	font-size: 20px;
+	color: black;
+	padding:20px;
+}
+
+.list:hover{
+color: black
+}
+
+
+.container-fluid {
+    padding: 60px 50px;
+  }
+  .bg-grey {
+    background-color: #f6f6f6;
+  }
+
+.bg-red{
+	background-color: #b9e1fa;
+}
+.bg-green{
+	background-color: #f05c46;
+}
+
+.bg-yellow{
+	
+	background-color: #63c97c ;
+}
