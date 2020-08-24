@@ -3,27 +3,27 @@
 }
 
 #Welcome{ 
-	font-size: 450px;
+	font-size:300px;
 		color:#e06f2d ;
 	font-style: italic; 
 	
 }	
 .para{
 	
-	font-family:'Cinzel', serif;
-	font-size: 30px
+	font-family:'Playfair Display', serif;
+	font-size: 20px;
 }
 .nav{
 	
 	font-family: 'Alfa Slab One', cursive;
-	font-size: 45px
+	font-size: 30px
 
 
 }
 
 nav{ 
 	font-family:'Suez One', serif;
-	font-size: 25px;
+	font-size: 20px;
 	margin:auto;
 	width: 100%;
 	padding: 5px
@@ -47,34 +47,48 @@ nav{
 
 
 .service{
-	margin-top: 30px;
-	background-color: #f5a158;
+	margin-top: 10px;
+	background-color: grey;
+	color: white;
 	font-size: 130% ;
 	padding:20px;
 	border:solid ;
+	text-align: center;
+	font-family:'Playfair Display', serif;
+}
+
+
+.products{
+	margin-top: 30px;
+	background-color: grey;
+	color: white;
+	font-size: 130% ;
+	padding:20px;
+	border:solid ;
+	font-family:'Playfair Display', serif;
+}
+
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
 }
 
 
 
-#Aboutus{
-	margin-top: 50px ;
-font-size: 150%;
+#About_us{ 
+	text-align: center;
+	font-size:90%;
 font-family: 'Red Rose', cursive ;
- 
-
+background-color: #f6f6f6;
 }
 
 
-#About_us{
-font-size: 150%;
-font-family: 'Red Rose', cursive ;
- background-color: #f6f6f6;
-}
-
-#about{
+.about{ 
+	font-family: 'Suez One', serif;
 	color:red;
-	margin-top: 50px;
-	font-size: 300%;
+	font-size: 400%;
 	font-style: italic;
 }
 
@@ -109,14 +123,19 @@ color: black
     background-color: #f6f6f6;
   }
 
-.bg-red{
-	background-color: #b9e1fa;
+.bg-blue{
+	background-color:  #d2fae6 ;
 }
-.bg-green{
+
+.bg-red{
 	background-color: #f05c46;
 }
 
-.bg-yellow{
+.bg-green{
 	
-	background-color: #63c97c ;
+	background-color: #67f574 ;
+}
+.bg-greeen{
+	background-color:#9ef0a1;
+
 }
