@@ -3,7 +3,7 @@
 }
 
 #Welcome{ 
-	font-size:300px;
+	font-size:50px;
 		color:#e06f2d ;
 	font-style: italic; 
 	
@@ -30,14 +30,13 @@ nav{
 }
 
 
-
  .footer_color{
- 	font-size: 15px;
- 	color: white;
+ 	font-size: 20px;
+ 	color: black;
 }
 
  .footer_color:hover{
- 	color: white;
+ 	color: black;
 
  }
 
@@ -50,7 +49,7 @@ nav{
 	margin-top: 10px;
 	background-color: grey;
 	color: white;
-	font-size: 130% ;
+	font-size: 100% ;
 	padding:20px;
 	border:solid ;
 	text-align: center;
@@ -58,13 +57,10 @@ nav{
 }
 
 
-.products{
-	margin-top: 30px;
-	background-color: grey;
-	color: white;
-	font-size: 130% ;
-	padding:20px;
-	border:solid ;
+.products{/*
+	background-color: #9ef0a1 ;*/
+	color: red;
+	text-align: center;
 	font-family:'Playfair Display', serif;
 }
 
@@ -88,14 +84,14 @@ background-color: #f6f6f6;
 .about{ 
 	font-family: 'Suez One', serif;
 	color:red;
-	font-size: 400%;
+	font-size: 300%;
 	font-style: italic;
 }
 
 .customer_service{
 	margin-top: 30px;
 	background-color: violet;
-	font-size: 130% ;
+	font-size: 100% ;
 	padding:20px;
 	border:solid ;
 }
@@ -139,3 +135,26 @@ color: black
 	background-color:#9ef0a1;
 
 }
+
+
+.content_wrap{
+	width: 1250px;
+	margin: 10px auto;
+}
+
+    
+input[type=submit] {    
+  background-color: rgb(37, 116, 161);    
+  color: white;    
+  padding: 12px 20px;    
+  border: none;    
+  border-radius: 4px;    
+  cursor: pointer;    
+  float: right;    
+}    
+    
+input[type=submit]:hover {    
+  background-color: #45a049;    
+}    
+    
+
